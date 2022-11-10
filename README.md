@@ -5,3 +5,5 @@ Para ejecutar la versión de producción de la aplicación, seguir el siguiente 
 
 ## Ejecutar local
 Para ejecutar el código en local, correr el backend y ejecutar el frontend e ir a http://localhost:8080/
+=======
+# finanz-you-backend
